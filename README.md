@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I work at at Robert Bosch GmbH (Stuttgart, Germany) as a Data Scientist Tech Lead for Q4.0 use-cases.
+
+
 <!--
 **gautam-e/gautam-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
