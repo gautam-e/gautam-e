@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I'm a data scientist and work currently on automotive repair data for field claims.
+
 I like to solve real problems with data and make products that people like to use.
 
 <!--
