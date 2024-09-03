@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 🚙 I'm a data scientist and work currently on automotive repair data for field claims  
-🔥 I'm currently learning the Mojo programming language by  
-  - contributing to mojodojo.dev
-  - writing in https://gautam-e.github.io/slomojo/  
 
 <!--
 **gautam-e/gautam-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
