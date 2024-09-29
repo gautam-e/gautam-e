@@ -1,7 +1,12 @@
 ### Hi there 👋
 
-🚙 I'm a data scientist and work currently on automotive repair data for field claims  
-
+🚙 I'm a data scientist and entrepreneur. I’m currently building my company Reaugment AI. Some of the products I'm working on are:
+- 🤯 Scatterbrain (Web app: http://scatterbrain.reaugment.ai/; YT demos: https://www.youtube.com/playlist?list=PLNF74JxX_bEH6ciEqG7pxSz_Hvw-KsJ-S)
+- 🏇 Stable Confusion 
+- ✨ Perfectionlist
+- ⛓️ Sutra-X
+- Pathfinder KI: An AI assistant for employee qualification
+- ...
 <!--
 **gautam-e/gautam-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
