@@ -2,7 +2,7 @@
 
 🚙 I'm a data scientist and entrepreneur. I’m currently building my company Reaugment AI. Some of the products I'm working on:
 - 🤯 Scatterbrain [Web app](http://scatterbrain.reaugment.ai/); [YT demos](https://www.youtube.com/playlist?list=PLNF74JxX_bEH6ciEqG7pxSz_Hvw-KsJ-S)
-- 🏇 Stable Confusion 
+- 🏇 Stable Confusion [Web app](http://stable-confusion.reaugment.ai/); [YT demos](https://www.youtube.com/playlist?list=PLNF74JxX_bEH51P7bEF2k0mywrUCfYjYV)
 - ✨ Perfectionlist
 - ⛓️ Sutra-X
 - Pathfinder KI: An AI assistant for employee qualification
