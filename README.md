@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 🚙 I'm a data scientist and entrepreneur. I’m currently building my company Reaugment AI. Some of the products I'm working on:
-- 🤯 Scatterbrain [Web app](http://scatterbrain.reaugment.ai/); [YT demos](https://www.youtube.com/playlist?list=PLNF74JxX_bEH6ciEqG7pxSz_Hvw-KsJ-S)
-- 🏇 Stable Confusion [Web app](http://stable-confusion.reaugment.ai/); [YT demos](https://www.youtube.com/playlist?list=PLNF74JxX_bEH51P7bEF2k0mywrUCfYjYV)
+- 🤯 Scatterbrain [Web app](https://scatterbrain.reaugment.ai/); [YT demos](https://www.youtube.com/playlist?list=PLNF74JxX_bEH6ciEqG7pxSz_Hvw-KsJ-S)
+- 🏇 Stable Confusion [Web app](https://stable-confusion.reaugment.ai/); [YT demos](https://www.youtube.com/playlist?list=PLNF74JxX_bEH51P7bEF2k0mywrUCfYjYV)
 - ✨ Perfectionlist
-- ⛓️ Sutra-X
+- ⛓️ Sutra-X [Web app](https://sutra-x.reaugment.ai/) [YT demos](https://youtube.com/playlist?list=PLNF74JxX_bEHJeoD_-zYiip2RBg710kfR&si=m532z0Wjb_PWVZPC)
 - Pathfinder KI: An AI assistant for employee qualification
 - ...
 <!--
